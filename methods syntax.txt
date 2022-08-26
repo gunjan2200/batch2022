@@ -1,0 +1,20 @@
+public int/float/double/char m1()
+{
+
+
+}
+non-primitive==>class /String
+return type
+public return_type methodname()//without pp
+{
+
+
+}
+public return_type methodname(int a, String g, C c)//with pp
+{
+
+
+}
+
+
+simple method vs return type-->calling diffrnce

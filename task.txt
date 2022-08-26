@@ -1,0 +1,13 @@
+public int m1(int a, int b)
+
+{
+int c =a*b;
+a+b;a-b;a/b
+
+
+retunr c 
+
+//ad
+sun = 15
+mu = 10
+div = 20

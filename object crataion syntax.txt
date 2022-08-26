@@ -1,0 +1,7 @@
+how to create an object 
+
+Syntax 
+ClassName referenc_variable = new ClassName();
+
+simpple method calling
+refernce_variable.methodName();

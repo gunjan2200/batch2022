@@ -1,0 +1,19 @@
+how to call a parameter 
+ public void m2(int a , String s)
+ {
+ 
+ }
+ public int m4(int h, double f)
+ {
+ 
+ }
+ public static void m4(int b)
+ {
+ 
+ }
+ 
+ public static int m6(int o)
+ {
+ 
+ 
+ }

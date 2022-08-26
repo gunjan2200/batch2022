@@ -1,0 +1,101 @@
+Types of Methods
+1) simple method--? with parameter / without parameter
+2) static method--> with parameter/ without parameter
+3) return type method -->with parameter/wihtout parameter
+4)static return type method -->
+
+static ?
+method and varaiables which belongs to the class where we dont need to create object to call that method
+
+1)
+syntax 
+public return_type methodname()
+{
+
+
+}
+1)simple without parameter
+public void m1()
+{
+
+
+}
+with parameter
+public void m1(int a, int b ,char c,B b)//class as a parameter
+{
+
+
+}
+syntax for static without parameter
+public static return_type methodname()
+{
+
+}
+without parameter
+public static void m1()
+{
+
+
+}
+
+public static void m1(int a, double d)
+{
+
+
+}
+
+return type method 
+
+
+syntax 
+public return_type methodname()
+{
+
+return return_type (varaiable/ value);
+}
+eg)
+public int m1()
+{
+int a =10
+return  a;
+}
+public String m2()
+{
+
+return "gfgfg";
+}
+public float m2()
+{
+
+}
+
+public B m1()
+{
+
+
+}
+return_type withparameter
+public String  m1(int a,float m,String h,B b)
+{
+
+
+}
+public B m1()
+{
+
+}
+
+public static int m1()
+{
+
+}
+
+public static String m2(int a)
+{
+
+
+}
+
+
+
+

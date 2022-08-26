@@ -1,0 +1,23 @@
+today agenda
+1)github 
+2)data varibale/data type
+3) types of methods
+
+
+Which Are types of variable
+
+1)numericals ==>a) byte --> 127  size 1byte
+                 b) int -->123055555555 9-10 zero size 4 byte 
+				 c) float --> 2-3 decimal points size 4 byte
+				 d) double -->more than 2-3 decimal points  8 byte
+				 e) long  -->1345848787777787978777 size 8 byte
+				 
+				 
+2)alphabetical ==> a) char -> single abphabet a , b , m, 2 byte 
+                   b) String  8 byte 
+				   
+3) boolean ==> boolean ->true / false		
+
+
+global vs local variable		   
+
